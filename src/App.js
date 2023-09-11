@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div>
         <Navbar />
-        <h1>hi</h1>
+        <h1 className=' bg-slate-500 '>hi</h1>
         <Card />
       </div>
     </div>
