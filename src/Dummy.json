@@ -19,7 +19,7 @@
                 "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
             ],
             "url_flipkart": "https://www.flipkart.com/apple-iphone-x-silver-64-gb/p/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=2d03bda7-a907-46c1-9399-72749678f8b4.MOBEXRGVF8NHMGXJ.SEARCH&ppt=sp&ppn=sp&ssid=qhrjm78f1c0000001694620140287&qH=87b05b5d34665de4",
-            "url_amazon": ""
+            "url_amazon": "null"
         },
         {
             "id": 2,
@@ -39,7 +39,7 @@
                 "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
             ],
             "url_flipkart": "https://www.flipkart.com/apple-iphone-x-space-gray-64-gb/p/itmexrgv6hctyrav?pid=MOBEXRGVCMGVCGGQ&lid=LSTMOBEXRGVCMGVCGGQFLD1LA&marketplace=FLIPKART&q=iphone+x&store=tyy%2F4io&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=bddd665e-ff7f-4c75-b9d0-900352871eeb.MOBEXRGVCMGVCGGQ.SEARCH&ppt=sp&ppn=sp&ssid=19q4596hn40000001694620521284&qH=882a0465d260983a",
-            "url_amazon": ""
+            "url_amazon": "null"
         },
         {
             "id": 3,
@@ -56,7 +56,7 @@
                 "https://i.dummyjson.com/data/products/3/1.jpg"
             ],
             "url_flipkart": "",
-            "url_amazon": ""
+            "url_amazon": "null"
         },
         {
             "id": 4,
@@ -96,7 +96,7 @@
                 "https://i.dummyjson.com/data/products/5/3.jpg"
             ],
             "url_flipkart": "https://www.flipkart.com/huawei-p30-lite-peacock-blue-128-gb/p/itm32b07d22903eb?pid=MOBFT7HURWQXKPZY&lid=LSTMOBFT7HURWQXKPZYJTSI6H&marketplace=FLIPKART&q=huawei+p30&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=search-autosuggest&iid=42c9d29d-80b4-4293-b301-f1796f3a5ad6.MOBFT7HURWQXKPZY.SEARCH&ppt=pp&ppn=pp&ssid=jkzmh8i3000000001694620748163&qH=7a01b2e9a742e819",
-            "url_amazon": ""
+            "url_amazon": "null"
         },
         {
             "id": 6,
