@@ -38,7 +38,7 @@
                 "https://i.dummyjson.com/data/products/2/3.jpg",
                 "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/apple-iphone-x-space-gray-64-gb/p/itmexrgv6hctyrav?pid=MOBEXRGVCMGVCGGQ&lid=LSTMOBEXRGVCMGVCGGQFLD1LA&marketplace=FLIPKART&q=iphone+x&store=tyy%2F4io&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=bddd665e-ff7f-4c75-b9d0-900352871eeb.MOBEXRGVCMGVCGGQ.SEARCH&ppt=sp&ppn=sp&ssid=19q4596hn40000001694620521284&qH=882a0465d260983a",
             "url_amazon": ""
         },
         {
@@ -76,7 +76,7 @@
                 "https://i.dummyjson.com/data/products/4/4.jpg",
                 "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/oppo-f19-midnight-blue-128-gb/p/itm82f60569dc6db?pid=MOBGFGWNEYV3NZBV&lid=LSTMOBGFGWNEYV3NZBVFZZVNZ&marketplace=FLIPKART&q=oppof19&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=search-autosuggest&iid=3bfaef3a-cc72-4fa3-8a2b-59305a8d133a.MOBGFGWNEYV3NZBV.SEARCH&ppt=sp&ppn=sp&ssid=keqj6mr4q80000001694620728847&qH=3a0002b263c022de",
             "url_amazon": ""
         },
         {
@@ -95,7 +95,7 @@
                 "https://i.dummyjson.com/data/products/5/2.jpg",
                 "https://i.dummyjson.com/data/products/5/3.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/huawei-p30-lite-peacock-blue-128-gb/p/itm32b07d22903eb?pid=MOBFT7HURWQXKPZY&lid=LSTMOBFT7HURWQXKPZYJTSI6H&marketplace=FLIPKART&q=huawei+p30&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=search-autosuggest&iid=42c9d29d-80b4-4293-b301-f1796f3a5ad6.MOBFT7HURWQXKPZY.SEARCH&ppt=pp&ppn=pp&ssid=jkzmh8i3000000001694620748163&qH=7a01b2e9a742e819",
             "url_amazon": ""
         },
         {
@@ -115,7 +115,7 @@
                 "https://i.dummyjson.com/data/products/6/3.png",
                 "https://i.dummyjson.com/data/products/6/4.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/apple-2021-macbook-pro-m1-16-gb-1-tb-ssd-mac-os-monterey-mk1f3hn-a/p/itme0f461ce85ab4?pid=COMG7X7H2BDZFGET&lid=LSTCOMG7X7H2BDZFGET3SZV10&marketplace=FLIPKART&q=macbook+pro&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=2ffccee2-d92c-4d97-a1e6-cd623565352f.COMG7X7H2BDZFGET.SEARCH&ppt=sp&ppn=sp&ssid=o1kb8fuik00000001694620769909&qH=9cf36a97583bd48f",
             "url_amazon": ""
         },
         {
@@ -135,7 +135,7 @@
                 "https://i.dummyjson.com/data/products/7/3.jpg",
                 "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/samsung-galaxy-book2-core-i5-12th-gen-1235u-16-gb-512-gb-ssd-windows-11-home-np750xed-kc3in-thin-light-laptop/p/itmdc8e5a630dbac?pid=COMGE82N4NN5FGHC&lid=LSTCOMGE82N4NN5FGHCXFRFSS&marketplace=FLIPKART&q=samsung+galaxy+book&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=1684f624-1b32-4d9c-a91e-e6e27caec698.COMGE82N4NN5FGHC.SEARCH&ppt=sp&ppn=sp&ssid=jbht72magg0000001694620821311&qH=10c83db642c04582",
             "url_amazon": ""
         },
         {
@@ -156,7 +156,7 @@
                 "https://i.dummyjson.com/data/products/8/4.jpg",
                 "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/lenovo-loq-core-i5-12th-gen-12450h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-15irh8-gaming-laptop/p/itm4ecf0bc10c761?pid=COMGRC9RP8H4FWCD&lid=LSTCOMGRC9RP8H4FWCDOAMZUW&marketplace=FLIPKART&q=Microsoft+Surface+Laptop+4&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_mjFmOkk7PkPK_-TF6Es4N1mXSvV2xlh9KI1FLncawtETcvxnPsIMv5S1GI_kcfNlj-YkAOTpB4Vg8tESHhLF6w%3D%3D&ppt=sp&ppn=sp&ssid=g50o991e740000001694620896581&qH=d9e0070b10176e9f",
             "url_amazon": ""
         },
         {
@@ -177,7 +177,7 @@
                 "https://i.dummyjson.com/data/products/9/4.jpg",
                 "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/infinix-inbook-y1-plus-intel-core-i3-10th-gen-1005g1-8-gb-512-gb-ssd-windows-11-home-xl28-thin-light-laptop/p/itm592181eb39ec3?pid=COMGMM3HXJC3TYYH&lid=LSTCOMGMM3HXJC3TYYHA4PPBX&marketplace=FLIPKART&q=Infinix+INBOOK&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=106c2d41-6d73-4280-8a43-02ffaa1d830a.COMGMM3HXJC3TYYH.SEARCH&ppt=pp&ppn=pp&ssid=krvmvsrbrk0000001694620946978&qH=7b3970ce884b23ee",
             "url_amazon": ""
         },
         {
@@ -197,7 +197,7 @@
                 "https://i.dummyjson.com/data/products/10/3.jpg",
                 "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/hp-pavilion-ryzen-5-hexa-core-5625u-8-gb-512-gb-ssd-windows-11-home-14-ec1003au-thin-light-laptop/p/itm912983975b3d8?pid=COMGCGSTVVGKQTVA&lid=LSTCOMGCGSTVVGKQTVAJVF572&marketplace=FLIPKART&q=HP+Pavilion+15-DK1056WM&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=93ebb7dd-b974-4912-88f2-b98f973eef95.COMGCGSTVVGKQTVA.SEARCH&ppt=pp&ppn=pp&ssid=dph36ffark0000001694620962599&qH=97f816d27e094e0e",
             "url_amazon": ""
         },
         {
@@ -217,7 +217,7 @@
                 "https://i.dummyjson.com/data/products/11/3.jpg",
                 "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/perfumers-club-best-aquatic-fragrance-women-men-set-3-8ml-each-refill-lightr-eau-de-parfum-24-ml/p/itm46ffb7e9f9fbf?pid=PERGB768VZPHCGZJ&lid=LSTPERGB768VZPHCGZJBJV9UP&marketplace=FLIPKART&q=perfume+Oil&store=g9b&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=734fdd32-c4f0-466b-82cf-c32a346c1a13.PERGB768VZPHCGZJ.SEARCH&ppt=sp&ppn=sp&ssid=rjrxlhn1jk0000001694620978207&qH=015795b0a46faae6",
             "url_amazon": ""
         },
         {
@@ -238,7 +238,7 @@
                 "https://i.dummyjson.com/data/products/12/4.jpg",
                 "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/brown-orchid-gold-eau-de-parfum-80-ml/p/itmf6yherufehwh5?pid=PERF6YHES5KE2Q2U&lid=LSTPERF6YHES5KE2Q2UWYAMN5&marketplace=FLIPKART&q=brown+perfume&store=g9b%2F0yh%2Fjhz&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=1b6de9ef-ea57-42a3-8e6c-738fcf4d23b6.PERF6YHES5KE2Q2U.SEARCH&ppt=sp&ppn=sp&ssid=bjlc4y16hs0000001694620999173&qH=bc1369bf292c0fa8",
             "url_amazon": ""
         },
         {
@@ -259,7 +259,7 @@
                 "https://i.dummyjson.com/data/products/13/4.jpg",
                 "https://i.dummyjson.com/data/products/13/thumbnail.webp"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/fogg-scent-xpressio-eau-de-parfum-75-ml/p/itm595b036d19603?pid=PERGSC2ZH8NFBJPB&lid=LSTPERGSC2ZH8NFBJPBGG4GVP&marketplace=FLIPKART&q=Fog+Scent+Xpressio+Perfume&store=g9b%2F0yh&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=605b8593-6909-440b-aa4c-2754e840b54a.PERGSC2ZH8NFBJPB.SEARCH&ppt=sp&ppn=sp&ssid=c04h4sqf000000001694621016284&qH=3c4753dba408b7d3",
             "url_amazon": ""
         },
         {
@@ -279,7 +279,7 @@
                 "https://i.dummyjson.com/data/products/14/3.jpg",
                 "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/rida-fragrance-arabian-musk-concentrated-perfume-oil-attar-premium-quality-non-alcoholic-floral-attar/p/itmec1c07584493c?pid=ATTGGKKBEGJGH5ZX&lid=LSTATTGGKKBEGJGH5ZXUFJK9X&marketplace=FLIPKART&q=Non-Alcoholic+Concentrated+Perfume+Oil&store=g9b%2F0yh&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=715bd0b7-b1bf-4b6e-88f2-f64d68036409.ATTGGKKBEGJGH5ZX.SEARCH&ppt=sp&ppn=sp&ssid=ag3lfd369c0000001694621058502&qH=a0da951d493e6f97",
             "url_amazon": ""
         },
         {
@@ -300,7 +300,7 @@
                 "https://i.dummyjson.com/data/products/15/4.jpg",
                 "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
             ],
-            "url_flipkart": "",
+            "url_flipkart": "https://www.flipkart.com/renee-eau-de-parfum-bloom-8ml-8-ml/p/itme033eef320d59?pid=PERGGZFEACVSNVX8&lid=LSTPERGGZFEACVSNVX83ILKYO&marketplace=FLIPKART&q=Eau+De+Perfume+Spray&store=g9b%2F0yh%2Fjhz%2Fxys&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=633d9679-26ba-4753-9e43-69e138592699.PERGGZFEACVSNVX8.SEARCH&ppt=sp&ppn=sp&ssid=tlpdi36rxc0000001694621093806&qH=c0ca0d6804632e11",
             "url_amazon": ""
         },
         {
