@@ -2,29 +2,32 @@ import React from 'react'
 import { NavLink } from "react-router-dom";
 function Navbar() {
 
-    return(<div className="flex justify-between place-content-between items-center h-20 max-w-6xl mx-auto">
-        <nav>
-            <NavLink to="/">
+    return(
+    <div className="flex flex-row justify-around  bg-slate-700 my-10 rounded-full items-center  text-white max-w-6xl mx-auto">
+       
+      <div> <NavLink to="/">
                 <div className="ml-5">
-                    <img src="../logo.png" className="h-14" />
+                    <img src="../logo.png" className="h-10" />
                 </div>
-            </NavLink>
+            </NavLink></div>
             <div >
                 <NavLink to="/home">
                     <p>Home</p>
                 </NavLink>
             </div>
+          
             <div >
                 <NavLink to="/about">
                     <p>About</p>
                 </NavLink>
             </div>
             <div >
-                <NavLink to="/contactus">
-                    <p>Contact Us</p>
+                <NavLink to="/contact">
+                    <p>contact Us</p>
                 </NavLink>
             </div>
-        </nav>
+        
+        
     </div>);
 }
 
