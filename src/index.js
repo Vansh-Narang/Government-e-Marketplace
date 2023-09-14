@@ -7,9 +7,7 @@ import Spinner from './Spinner';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter >
-    {/* <App /> */}
-    <Spinner></Spinner>
-
+    <App />
   </BrowserRouter>
 
 );
