@@ -1,8 +1,18 @@
 import React from 'react'
-
-function Cards() {
+import Card from './Card'
+function Cards({products,filterdata}) {
     return (
-        <div>Cards</div>
+        <div>
+        {
+            products.map(product=>
+            {
+                return (
+                    <Card product={product} key={product.id}></Card>
+                )
+            })
+        }
+
+        </div>
     )
 }
 

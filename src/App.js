@@ -31,15 +31,24 @@ function App() {
             console.log(error)
         }
     }
+function filterdata(title)
+{
+  const newproduct=products.filter((product)=>
+  {
+    return (title!==product.title);
+  });
+  setProducts(newproduct);
+}
+
     useEffect(() => {
         getProducts();
     },[])
   return (
-    <div className=" h-screen w-screen">
+    <div className=" h-screen w-screen overflow-hidden">
           <Navbar />
           <SearchBar></SearchBar>
           <div><Routes>
-          <Route path="/" element={loader?<Spinner/>:<Cards/>} ></Route>
+          <Route path="/" element={loader?<Spinner/>:<Cards filterdata={filterdata} products={products}/>} ></Route>
           <Route path='/contact' element={<Contact></Contact>}></Route>
           <Route path="/home" element={<Home></Home>}></Route>
             <Route path="/about" element={<About></About>}></Route>
