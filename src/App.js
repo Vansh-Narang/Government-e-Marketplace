@@ -4,6 +4,8 @@ import Card from './Components/Card';
 import SearchBar from './Components/SearchBar';
 
 function App() {
+  
+
 
   return (
     <div className="bg-[#fafafa]">
