@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
@@ -36,4 +42,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.place
+{
+    width: 400px;
+    /* height: max-content; */
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 1rem;
+    align-items: center;
+    box-shadow: rgb(0,0,0,0.24) 0px 3px 8px;
+    
 }

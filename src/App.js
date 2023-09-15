@@ -1,6 +1,5 @@
 import './App.css';
 import Navbar from './Components/Navbar';
-import Card from './Components/Card';
 import SearchBar from './Components/SearchBar';
 import { useState, useEffect } from 'react';
 import Spinner from './Spinner';
@@ -8,7 +7,7 @@ import {Route,Routes} from "react-router-dom";
 import Home from './Components/Home';
 import About from "./Components/About";
 import Contact from './Components/Contactus';
-import Cards from './Components/Cards';
+import Cards from './Components/cards';
 function App() {
 
 
@@ -22,9 +21,10 @@ function App() {
           setloader(true);
             const response = await fetch(url)
           
-            const parsedData = await response.json()
+            const parsedData = await response.json();
             setloader(false);
             setProducts(parsedData);
+            // console.log("parsedData=>",parsedData);
           
         } catch (error) {
             console.log(error)
@@ -34,11 +34,11 @@ function App() {
         getProducts();
     },[])
   return (
-    <div className=" h-screen w-screen overflow-hidden">
+    <div className=" h-screen w-screen  overflow-x-hidden">
           <Navbar />
           <SearchBar></SearchBar>
           <div><Routes>
-          <Route path="/" element={loader?<Spinner/>:<Cards/>} ></Route>
+          <Route path="/" element={loader?<Spinner/>:<Cards products={products}/>} ></Route>
           <Route path='/contact' element={<Contact></Contact>}></Route>
           <Route path="/home" element={<Home></Home>}></Route>
             <Route path="/about" element={<About></About>}></Route>
