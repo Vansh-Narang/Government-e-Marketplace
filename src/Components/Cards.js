@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Card from './card'
+import Card from './card';
 function Cards({products,filterdata}) {
     // console.log("products=>",products);
      const [title,settitle]=useState("Flipkart");
