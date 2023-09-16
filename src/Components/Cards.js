@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Card from './card';
 function Cards({products,filterdata}) {
     // console.log("products=>",products);
-     const [title,settitle]=useState("Flipkart");
+    //  const [title,settitle]=useState("Flipkart");
     
     return (
      <div>
@@ -16,8 +16,9 @@ function Cards({products,filterdata}) {
             products.map(product=>
             {
                 return (
-                    <div className='flex gap-[10%]'> <Card product={product} key={product.id} title={"Flipkart"} ></Card>
-                      <Card product={product} key={product.id} title={"Amazon"} ></Card></div>
+                    <div className='flex gap-[10%]'> <Card product={product} key={product.id} title={"Flipkart"}
+                      ></Card>
+                      <Card product={product} key={product.id} title={"Amazon"}  ></Card></div>
                    
                 )
             })

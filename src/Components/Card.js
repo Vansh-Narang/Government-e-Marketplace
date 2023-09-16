@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { NavLink } from "react-router-dom"
 import { useNavigate } from 'react-router-dom';
 
-function Card({product,title,settitle}) {
+function Card({product,title}) {
     const navigate = useNavigate();
     console.log(product);
     return (
@@ -21,7 +21,7 @@ function Card({product,title,settitle}) {
         <img scr={product.thumbnail}></img>
         <div className=' flex items-end' onClick={()=>
         {
-            window.location.href = 'https://www.flipkart.com/fjallraven-kanken-laptop-17-backpack-everyday-14-l/p/itm3bde9f1185e70';
+            window.location.href = "https://www.flipkart.com/fjallraven-kanken-laptop-17-backpack-everyday-14-l/p/itm3bde9f1185e70";
         }}> 
         <button className=" px-7 mb-4 mt-7  bg-slate-800   transition-all 
          duration-200 py-3   hover:bg-slate-900 text-white  hover:border rounded-3xl border-white">View on {title}</button></div>
