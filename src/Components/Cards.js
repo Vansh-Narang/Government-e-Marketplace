@@ -3,7 +3,6 @@ import Card from './card';
 function Cards({products,filterdata}) {
     // console.log("products=>",products);
     //  const [title,settitle]=useState("Flipkart");
-    
     return (
      <div>
        <div className=' flex  justify-around text-gray-800  mx-[14%] p-6 text-4xl'>
