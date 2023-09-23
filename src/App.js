@@ -7,7 +7,10 @@ import {Route,Routes} from "react-router-dom";
 import Home from './Components/Home';
 import About from "./Components/About";
 import Contact from './Components/Contactus';
+import Crads from './Components/cards'
+import data from "./Dummy.json";
 import Cards from './Components/cards';
+const {Data}=data;
 function App() {
 
 
@@ -18,19 +21,25 @@ function App() {
 
     async function getProducts() {
         try {
+         
           setloader(true);
-            const response = await fetch(url)
+          
+            const response = await fetch(url);
           
             const parsedData = await response.json();
             setloader(false);
+            console.log(Data);
             setProducts(parsedData);
-            // console.log("parsedData=>",parsedData);
+            console.log("parsedData=>",parsedData);
+          
+            
           
         } catch (error) {
             console.log(error)
         }
     }
     useEffect(() => {
+   
         getProducts();
     },[])
   return (
@@ -38,7 +47,7 @@ function App() {
           <Navbar />
           <SearchBar></SearchBar>
           <div><Routes>
-          <Route path="/" element={loader?<Spinner/>:<Cards products={products}/>} ></Route>
+          <Route path="/" element={loader?<Spinner/>:<Cards products={Data}/>} ></Route>
           <Route path='/contact' element={<Contact></Contact>}></Route>
           <Route path="/home" element={<Home></Home>}></Route>
             <Route path="/about" element={<About></About>}></Route>
