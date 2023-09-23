@@ -12,8 +12,8 @@ function SearchBar() {
         <div className='flex items-center justify-center'>
             <input onChange={handleSearchChange}
                 type="text" placeholder='Search for your Product'
-                className=' w-[35rem] h-10 rounded-lg bg-gray-800  mx-auto border-white order-2
-                border-color:inherit mt-10 mb-4 text-blue-gray-900 placeholder:text-center caret-whit text-white text-center '
+                className='  w-[800px] h-10  rounded-full bg-gray-900  mx-auto border-white                                                                                                               
+                border-color:inherit mt-10 mb-4  text-2xl placeholder:text-center caret-whit text-white text-center '
                 value={Text}
             />
         </div>
