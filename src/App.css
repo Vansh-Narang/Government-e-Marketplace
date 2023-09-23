@@ -49,8 +49,8 @@
 .place
 {
     width: 400px;
-    /* height: max-content; */
-    margin: 1rem;
+    height: max-content;
+    margin: 1rem; 
     display: flex;
     flex-direction: column;
     border-radius: 20px;
