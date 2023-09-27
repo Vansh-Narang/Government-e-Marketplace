@@ -6,11 +6,11 @@ function Cards({products,filterdata}) {
     console.log(products);
     return (
      <div>
-       <div className=' flex  justify-around text-gray-800 my-6  font font-semibold text-4xl'>
+       <div className=' flex  justify-around text-gray-800 my-2  font font-semibold text-4xl'>
         <div className='  '>Flipkart</div>
         <div className='ml-10'>Amazon</div>
         <div className=' ml-20'> Gem</div>
-        <div className=' pl-10'>Reliance Ajio</div>
+        <div className=' pl-10'>India Mart</div>
      </div>
     
           <div className=''>
@@ -19,12 +19,11 @@ function Cards({products,filterdata}) {
             {
                 return (
                     <div className='flex'> 
-                    <Card product={product} key={product.id} title={"Flipkart"}
-                      ></Card>
+                    <Card product={product} key={product.id} title={"Flipkart"}></Card>
                       <Card product={product} key={product.id} title={"Amazon"}  ></Card>
                       <Card product={product} key={product.id} title={"Gem"} ></Card>    
-                      <Card product={product} key={product.id} title={"Reliance Ajio"} ></Card>
-                      
+                      <Card product={product} key={product.id} title={"India_Mart"} ></Card>
+    
                       </div>
                       
                    
