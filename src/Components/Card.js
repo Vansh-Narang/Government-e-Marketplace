@@ -11,7 +11,7 @@ function Card({product,title}) {
         console.log(product.thumbnail);
     return (
         <div className=' place relative bg-[#FFF]  opacity-80 text-black '>
-        <img src={title==="Amazon"?(product.thumbnail_amazon):(title==="Flipkart"?(product.thumbnail_flipkart):(title==="Gem"?(product.thumbnail_gem):(title==="India_Mart"?(product.thumbnail_indiamart):(product.thumbnail))))}
+        <img src={title==="Amazon"?(product.thumbnail_amazon):(title==="Flipkart"?(product.thumbnail_flipkart):(title==="Gem"?(product.thumbnail_gem):(!title==="India_Mart"?(product.thumbnail):(product.thumbnail_indiamart))))}
         
          className=" w-[360px] aspect-[1/1]  object-cover  "></img>
          <h1 className="text-4xl mt-2 flex text-black ">
@@ -26,7 +26,7 @@ function Card({product,title}) {
         {/* <p className=' text-gray-300'><span className=' font-bold text-white flex'>Title :</span>{product.title }</p> */}
         <p className=' text-black'><span className=' font-bold text-black flex'>Description :</span>{product.description}</p>
         {/* <p><span className=' text-white font-bold'>Discount :</span> {product.discountPercentage}</p>
-        <p><span className=' text-white font-bold'>Stock : </span>{product.stock}</p> */}
+          <p><span className=' text-white font-bold'>Stock : </span>{product.stock}</p> */}
         {/* <p>{product.thumbnail}</p> */}
     
         {/* <img scr={product.thumbnail}></img> */}
